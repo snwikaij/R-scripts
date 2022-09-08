@@ -10,4 +10,4 @@ in a form of a pseudo-webiste on github.<br />
 #Contents:<br />
       Approximated Bayesian Computation (ABC)<br />
       Brms<br />
-      Just Another Gibss Sampler (JAGS)<br />
+      [Just Another Gibss Sampler (JAGS)](https://github.com/snwikaij/R-scripts)<br />
