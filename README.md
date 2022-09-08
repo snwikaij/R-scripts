@@ -7,7 +7,7 @@ or/and rationalization of potential process that could have generated the data. 
 the amount of time and effert this costs. It is simply easier to create a working script an place it freely available for manipulation (pirating) 
 in a form of a pseudo-webiste on github.<br />
   <br />
-###Contents:<br />
+#Contents:<br />
       Approximated Bayesian Computation (ABC)<br />
       Brms<br />
       Just Another Gibss Sampler (JAGS)<br />
