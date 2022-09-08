@@ -10,4 +10,6 @@ in a form of a pseudo-webiste on github.<br />
 <h3/>Contents:</h3> 
 [Approximated Bayesian Computation (ABC)](https://github.com/snwikaij/R-scripts/tree/main/ABC) <br />
 [Bayesian regression models using Stan (Brms)](https://github.com/snwikaij/R-scripts/tree/main/Brms) <br />
+Bayesian regression models using Stan (Brms) <br />
 [Just Another Gibss Sampler (JAGS)](https://github.com/snwikaij/R-scripts/tree/main/JAGS) <br />
+Just Another Gibss Sampler (JAGS) <br />
