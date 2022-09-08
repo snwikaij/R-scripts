@@ -8,6 +8,7 @@ the amount of time and effert this costs. It is simply easier to create a workin
 in a form of a pseudo-webiste on github.<br />
   <br />
 <h3/>Contents:</h3>
-    - [Approximated Bayesian Computation (ABC)](https://github.com/snwikaij/R-scripts/tree/main/ABC)<br />
-    - [Bayesian regression models using Stan(Brms)](https://github.com/snwikaij/R-scripts/tree/main/Brms)<br />
-    - [Just Another Gibss Sampler (JAGS)](https://github.com/snwikaij/R-scripts/tree/main/JAGS)<br />
+    [Approximated Bayesian Computation (ABC)](https://github.com/snwikaij/R-scripts/tree/main/ABC)<br />
+    [Bayesian regression models using Stan (Brms)](https://github.com/snwikaij/R-scripts/tree/main/Brms)<br />
+    [Just Another Gibss Sampler (JAGS)](https://github.com/snwikaij/R-scripts/tree/main/JAGS)<br />
+    [Link to Data](https://github.com/snwikaij/Data/blob/main/Aquatic_Botany_Kaijser_et_al._2019.csv)
