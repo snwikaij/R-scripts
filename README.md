@@ -1,4 +1,5 @@
-<h1 align="center"> R-scripts contains random scripts with mostly "Bayesian" statistics in ecology (ABC-rejection, Brms and JAGS) <br />
+<h1 align="center"> R-scripts contains random scripts with mostly "Bayesian" statistics in ecology (ABC-rejection, Brms and JAGS) 
+  <br />
 Welcome to this repository! It contains different random useful scripts on statistics, which consist mainly of the "Bayesian" kind. From here on
 I will only use the term posterior (Bayesian model, with credibility intervals) or likelihood (Frequentist model, with confidence intervals) as
 both are used as buzz-words. The formulation of the posterior is by including logical choice on reasonoble value which can be expected based on past evidence 
