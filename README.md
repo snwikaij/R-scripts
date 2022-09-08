@@ -8,7 +8,7 @@ the amount of time and effert this costs. It is simply easier to create a workin
 in a form of a pseudo-webiste on github.
   <br />
   </div>
-##Contents:
+###Contents:<br />
       Approximated Bayesian Computation (ABC)<br />
       Brms<br />
       Just Another Gibss Sampler (JAGS)<br />
