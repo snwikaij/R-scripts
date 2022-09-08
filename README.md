@@ -6,3 +6,8 @@ both are used as buzz-words. The formulation of the posterior is by including lo
 or/and rationalization of potential process that could have generated the data. I have decided not to make it an R-package consindering 
 the amount of time and effert this costs. It is simply easier to create a working script an place it freely available for manipulation (pirating) 
 in a form of a pseudo-webiste on github.
+
+##Contents:
+      Approximated Bayesian Computation (ABC)
+      Brms
+      Just Another Gibss Sampler (JAGS)
