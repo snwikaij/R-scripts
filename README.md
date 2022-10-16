@@ -8,8 +8,6 @@ both are used as buzz-words. The posterior is formulate by including logical cho
 
 [Approximated Bayesian Computation (ABC)](https://github.com/snwikaij/R-scripts/tree/main/ABC) 
 <br />
-[Bayesian regression models using Stan (Brms)](https://github.com/snwikaij/R-scripts/tree/main/Brms) 
-<br />
 [Grid approximation](https://github.com/snwikaij/R-scripts/tree/main/Grid_approximation) 
 <br />
 [Just Another Gibss Sampler (JAGS)](https://github.com/snwikaij/R-scripts/tree/main/JAGS) 
