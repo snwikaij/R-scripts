@@ -1,6 +1,6 @@
 <h1 align="center">This should be a title</h1>  <br />
 
-Welcome to this repository! It contains different useful scripts and examples on statistics, mainly consisting of the "Bayesian" inferential kind. It contains an exapmle on how to use the ABC-rejection methods on Ordinairy Least Squared regression, a Frankenstein-monster grid approximation and multiple scripts for JAGS. Working scripts are freely available for manipulation and pirating.<br />
+Welcome to this repository! It contains different useful scripts and examples on statistics, mainly consisting of the "Bayesian" inferential kind. It contains an example on how to use the ABC-rejection methods on Ordinairy Least Squared (OLS) regression, a Frankenstein-monster grid approximation and multiple scripts for JAGS. Scripts are freely available for manipulation and pirating.<br />
   <br />
 <h3/>Contents:</h3> 
 
