@@ -10,5 +10,5 @@ Welcome to this repository! It contains different useful scripts and examples on
 <br />
 [Just Another Gibss Sampler (JAGS)](https://github.com/snwikaij/R-scripts/tree/main/JAGS) 
 <br />
-[Function to plot exploratory multivariate results from vegan](https://github.com/snwikaij/R-scripts/tree/main/Multivariate%20Plots) 
+[R-functions to plot exploratory multivariate results from vegan](https://github.com/snwikaij/R-scripts/tree/main/Multivariate%20Plots) 
 <br />
